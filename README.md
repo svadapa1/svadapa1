@@ -1,7 +1,7 @@
 Rohith Vadapalli - Portfolio
 
 Welcome to my portfolio repository! 🚀  
-I am Rohith Vadapalli, a Master of Science in Computer Science student at the University of North Carolina, Charlotte. Passionate about software engineering, full-stack development, and building scalable and efficient solutions, I bring a blend of academic excellence and industry experience to every project I undertake.
+I am Rohith Vadapalli, a Master of Science in Computer Science student at the University of North Carolina, Charlotte. Passionate about software engineering, full-stack development, Data Analysis, and building scalable and efficient solutions, I bring a blend of academic excellence and industry experience to every project I undertake.
 
 ---
 
