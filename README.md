@@ -19,13 +19,13 @@ Bachelor of Technology in Computer Science (2019 - 2023)
 💼 Professional Experience
 
 ### Graduate Teaching Assistant  
-UNC Charlotte (May 2024 - July 2024)
+UNC Charlotte 
 - Mentored 60+ students in full-stack development lifecycle, from UI/UX design to scalable backend implementation.  
 - Conducted workshops on React, Node.js, and MongoDB, accelerating project deployment by 40%.  
 - Improved team productivity by 25% through Agile practices and CI/CD integration guidance.
 
 ### Software Engineer Intern  
-Wissen Infotech (June 2022 - May 2023)
+Wissen Infotech
 - Developed scalable distributed solutions using Python and Django, enhancing system scalability by 25%.  
 - Built high-performance RESTful APIs and containerized apps using Docker for consistent deployments.  
 - Automated CI/CD pipelines with Jenkins and GitLab, reducing release cycles by 50%.  
