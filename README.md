@@ -9,7 +9,7 @@ I am Rohith Vadapalli, a Master of Science in Computer Science student at the Un
 
 University of North Carolina, Charlotte  
 Master of Science in Computer Science (Aug 2023 - Dec 2024)  
-- CGPA: 3.66/4.0  
+- CGPA: 3.70/4.0  
 
 Vellore Institute of Technology, India
 Bachelor of Technology in Computer Science (2019 - 2023)  
